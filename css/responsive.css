@@ -1,0 +1,118 @@
+
+@media (min-width: 320px) and ( max-width: 575.98px){ 
+    body{
+        overflow-x: hidden;
+    }
+    #slider{
+        padding: 200px 0 ;
+    }
+    .slider_text h3 {
+        font-size: 17pt;
+    }
+    .slider_text h2 {
+        font-size: 32pt;
+    }
+    .ideas_main h1 {
+        font-size: 21pt;
+    }
+    .ideas_main p {
+        font-size: 9pt;
+    }
+    .ideas_icon_a h3 {
+        font-size: 15pt;
+    }
+    .ideas_icon_a p {
+        font-size: 13pt;
+    }
+    .projects_head h2 {
+        font-size: 22pt;
+    }
+    .projects_head p {
+        padding-top: 0px;
+        font-size: 11pt;
+    }
+    .device_text h1 {
+        font-size: 25pt;
+    }
+    .device_text_text p {
+        line-height: 34px;
+        font-size: 7pt;
+    }
+    .posts_aa p {
+        padding-top: 10px;
+        font-size: 9pt;
+    }
+    .content_img img{
+        width: 30%;
+    }
+    .copyright_main h4 {
+        justify-content: center;
+    }
+    .copyright_end h4 a {
+        justify-content: center;
+    }
+}
+
+ @media (min-width: 576px) and ( max-width: 767.98px){ 
+    body{
+        overflow-x: hidden;
+    }
+    #slider{
+        padding: 280px 0;
+    }
+    .slider_text h3 {
+        font-size: 21pt;
+    }
+    .slider_text h2 {
+        font-size: 35pt;
+    }
+    .ideas_main h1 {
+        font-size: 25pt;
+    }
+    .ideas_main p {
+        padding-top: 10px;
+    }
+    .device_text h1 {
+        padding-top: 80px;
+        font-size: 24pt;
+    }
+    .device_img img {
+        width: 60%;
+    }
+    .content_img img {
+        width: 70%;
+    }
+    .footer_twitt_a h6 {
+        padding-top: 0px;
+      
+    }
+    .copyright_main h4 {
+        justify-content: center;
+    }
+    .copyright_end h4 a {
+        justify-content: center;
+    }
+}
+
+
+
+
+
+
+  @media (min-width: 768px) and ( max-width: 991.98px){ 
+    #slider {
+        padding: 250px 0;
+    }
+    #device{
+        padding-top: 40px;
+    }
+    .device_img img {
+        width: 50%;
+    }
+    .posts_aa p {
+        padding-top: 10px;
+    }
+    .content_img img {
+        width: 70%;
+    }
+   }
